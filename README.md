@@ -18,4 +18,4 @@ A command-line multiple-choice quiz and cash game written in Python where player
 3. Run:
 
 ```bash
-python trivia_game.py
+python Quiz and cash.py
